@@ -19,6 +19,7 @@ export default defineNuxtConfig({
    * 用于配置应用的基础设置，如头部信息、基础URL等
    * 参考：https://nuxt.com/docs/4.x/api/nuxt-config#app
    */
+  baseURL: '/ef-frontend-v1/',
   app: {
     /**
      * 头部配置 (head)
